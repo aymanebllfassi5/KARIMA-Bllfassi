@@ -272,7 +272,7 @@ contextInfo: {
 externalAdReply: {
 title: '♥♥♥',
 body: "",
-thumbnailUrl: 'https://telegra.ph/file/27dfe370c433f44c5ad4c.jpg',
+thumbnailUrl: 'https://telegra.ph/file/ff3dbbfda892a93520e70.jpg',
 sourceUrl: 'instagram.com/aymane_bbllfassi',
 mediaType: 1,
 renderLargerThumbnail: true
